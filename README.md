@@ -5,7 +5,7 @@ Finds clique nodes in a graph using quantum computing optimisers.
 
 
 ## Problem statement
-![Intial scammer graph](attachment:images/quantum-scam-finder.jpeg)
+![Intial scammer graph](images/quantum-scam-finder.jpeg)
 This is a bank customer graph. Each node represents a customer.
 Here the edges between each customer can be a interaction (chat, email,add benificary, calls, transfer of money)
 Here node 1,2,3,4 has been identified as scammer nodes by before. But node 0 is not identified as neither scammer or good node.
