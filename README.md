@@ -1,5 +1,8 @@
 # quantum-scam-finder
 
+## Pitch Deck
+https://drive.google.com/file/d/1LE_eSIOze6kh9vcpNMevzmwM0LSUSYuz/view?usp=sharing
+
 ## Description
 Finds clique nodes in a graph using quantum computing optimisers.
 
